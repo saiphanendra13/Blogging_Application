@@ -11,4 +11,5 @@ public class AppConstants {
 	public static final int ROLE_ADMIN=101;
 	public static final int ROLE_NORMAL=102;
 
+
 }
